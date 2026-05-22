@@ -1,1 +1,18 @@
 git init
+- initialize an empty git repo
+
+git status
+- give the information of the current state of the git repo
+
+git checkout -b <branch-name>
+- creates/swithes to a new branch. if want to switch to
+another branch use 
+git checkout <brnach-name>
+
+git add <filename>
+- used to stage the untracked filename
+
+git commit -m "<your message>"
+- used to tracked the staged files after being added by git add
+
+git branch
